@@ -1,0 +1,27 @@
+.a0 {
+    color: #fff;
+    background-color: none;
+    text-decoration: none;
+    border: #00a2ff 1px;
+    background-color: #00a2ff;
+    border-radius: 5px;
+    border-style: solid;
+    text-align: center;
+    transition: all 250ms;
+    -webkit-transition: all 250ms;
+}
+
+.a0::hover {
+    border: 2px;
+    box-shadow: 0 1px 1px 0 argb(0, 0, 0, 0.25);
+    color: #fff;
+}
+
+header {
+    background-color: #555;
+}
+
+footer {
+    background-color: #555;
+    color: #ddd;
+}
