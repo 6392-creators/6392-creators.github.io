@@ -5,6 +5,7 @@
 <header>
     <a class="a0" href="/">首页</a>
     <a class="a0" href="#团队概况">关于我们</a>
+    <a class="a0" href="https://www.firstinspires.org/">FIRST 官网</a>
 </header>
 
 
@@ -47,5 +48,5 @@ FRC (FIRST Robotics Competition) 是一个国际高中生机器人比赛。各�
 
 - 2016 年和 2018 年在 CRC（FRC 中国）获奖
 
-<footer>©2021 成都七中万达学校 电子机械社<br><a href="">联系我们</a></footer>
+<footer>©2021 成都七中万达学校 电子机械社<br><a href="mailto:1806941781@qq.com">联系我们 (E-Mail)</a></footer>
 

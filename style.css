@@ -13,12 +13,30 @@
 
 .a0:hover {
     color: #fff;
-    box-shadow: 0 3px 3px 0 rgba(0,0,0,.25);
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .25);
 }
 
 .a0:active {
     color: #fff;
-    box-shadow: 0 3px 3px 0 rgba(0,0,0,.5);
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .5);
     background-color: #339;
-    border-color: #44a;
+    border-color: #339;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    font-size: small;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    font-size: smaller;
 }
