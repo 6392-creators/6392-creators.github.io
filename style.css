@@ -55,7 +55,6 @@
     border-color: #1a7;
 }
 
-
 header {
     background-color: #333;
     color: #fff;
@@ -76,4 +75,33 @@ footer {
     font-size: smaller;
     box-shadow: 0 5px 7px 0 rgba(0, 0, 0, .25);
     border-radius: 7px;
+}
+
+.dc {
+    font-weight: bolder;
+    font-size: 900%;
+    color: transparent;
+    background: linear-gradient(to right, #9359ff, #29b1ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    padding-top: 10%;
+    text-shadow: rgba(0, 0, 0, .25);
+    padding-left: 4%;
+    padding-right: 4%;
+    line-height: 90%;
+}
+
+.dd {
+    font-weight: bolder;
+    font-size: 300%;
+    color: transparent;
+    background: linear-gradient(to right, #5783fd, #7f92ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    text-shadow: rgba(0, 0, 0, .25);
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: right;
 }
