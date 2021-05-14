@@ -86,16 +86,17 @@ footer {
 
 .dc {
     font-weight: bolder;
-    font-size: 900%;
+    font-size: 800%;
     color: transparent;
     background: linear-gradient(to right, #9359ff, #29b1ff);
     background-clip: text;
     -webkit-background-clip: text;
-    padding-top: 10%;
+    padding-top: 15%;
     text-shadow: rgba(0, 0, 0, .25);
     padding-left: 4%;
     padding-right: 4%;
     line-height: 90%;
+    word-break: break-all;
 }
 
 .dd {
@@ -111,6 +112,7 @@ footer {
     padding-left: 4%;
     padding-right: 4%;
     text-align: right;
+    line-height: normal;
 }
 
 a {
@@ -119,7 +121,7 @@ a {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Source Han Sans', 'Noto Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', 'Microsoft YaHei', '黑体', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Source Han Sans', 'Noto Sans', 'Microsoft YaHei', '黑体', sans-serif;
     max-width: 1000px;
     left: 50%;
     transform: translateX(-50%);
@@ -131,6 +133,7 @@ body {
     body {
         color: #fff;
         background-color: #333;
+        transition: all 250ms;
     }
     header {
         background-color: #444;
@@ -224,5 +227,10 @@ html body h5 {
 html body>p {
     margin-top: 0;
     margin-bottom: 1%;
-    word-wrap: break-word
+    word-wrap: break-word;
+}
+
+.sponsor {
+    text-align: center;
+    font-size: medium;
 }
