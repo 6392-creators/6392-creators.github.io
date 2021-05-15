@@ -4,7 +4,7 @@
 </head>
 <header>
     <a class="a0" href="/">首页</a>
-    <a class="a0" href="#团队概况">关于我们</a>
+    <a class="a0" href="/index.html#团队概况">关于我们</a>
     <a class="a0" href="https://www.firstinspires.org/" target=_blank>FIRST 官网</a>
     <a class="a0" href="http://www.7zwd.com/" target=_blank>学校官网</a>
     <a class="a1" href="sponsor.html">赞助我们</a>
