@@ -1,12 +1,18 @@
+---
+title: Dimension Creators - Index
+---
+
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Dimension Creators</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
 </head>
 <header>
     <a class="a0" href="/">首页</a>
     <a class="a0" href="/index.html#团队概况">关于我们</a>
     <a class="a0" href="https://www.firstinspires.org/" target=_blank>FIRST 官网</a>
     <a class="a0" href="http://www.7zwd.com/" target=_blank>学校官网</a>
+    <a class="a1" href="why.html">为什么？</a>
     <a class="a1" href="sponsor.html">赞助我们</a>
     <div class="dc">Dimension<br>Creators</div>
     <div class="dd">成都七中万达学校校队</div>
@@ -49,6 +55,14 @@ FRC (FIRST Robotics Competition) 是一个国际高中生机器人比赛。各�
 
 - 2016 年和 2018 年在 CRC（FRC 中国）获奖
 
+### 组织结构
+| 部门 | 分工 |
+|-----|-----|
+| 程序组 | 负责各类软件调试和程序的设计 |
+| 商务组 | 负责队伍的宣传、后勤事宜，以及比赛期间的外链和协调工作 |
+| 电子机械组 | 主管机器人的结构设计、3D建模、加工制作等事宜 |
+
+<br>
 <footer>
 ©2021 成都七中万达学校 电子机械社<br>
 <div>
